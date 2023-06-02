@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project 1 of Android Course With Saumya Singh- Display Toast Message</string>
+    <string name="downloading">Downloading</string>
+    <string name="uploading">Uploading</string>
+</resources>
