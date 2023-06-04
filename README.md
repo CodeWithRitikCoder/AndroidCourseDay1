@@ -1,5 +1,5 @@
 # AndroidCourseDay1
-Day-1 of Android Course:- How to show toast messages.
+Day-1 of Android Course:- How to show toast messages clicking on the buttons.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
