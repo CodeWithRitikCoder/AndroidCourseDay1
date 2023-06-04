@@ -1,5 +1,5 @@
 # AndroidCourseDay1
-My Android Course Journey. what I am doing.
+Day-1 of Android Course:- How to show toast messages.
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
